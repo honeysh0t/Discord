@@ -1,0 +1,57 @@
+/**
+* @name Nervozeus v1.7
+* @version 1.7
+* @description Demon Slayer: Zenitsu
+* @author ChEaTerNerVozA
+* @source https://vsthemes.org/en/user/ChEaTerNerVozA/
+* @Discord Server Where u can contact me:https://discord.gg/5E6rbFYCFn
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://i.imgur.com/mGaVgJt.jpeg');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('dаta:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0QEA0NDRANDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVIT0hJSkwLi4uFx8zODMtQygtLzcBCgoKDg0OFQ8PFS0ZFRkrKyswODcrNysrLSsrKy0rLisrNzc3NzcrNysrLTc3Ny0tKzcuKysrKysrLCsrNy0rLf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAECBQAGB//EACwQAAMBAQEAAQEGBAcAAAAAAAABAgMEERIxBkFDUVPREyGBowUWIzNhgsL/xAAbAQADAQEBAQEAAAAAAAAAAAACAwQBBQAGB//EACMRAAMBAQABAwQDAAAAAAAAAAABAgMREgQhMQVRodFBQlL/2gAMAwEAAhEDEQA/APQXAvpBo3mA0zPzWbPsosy9IFdYNTTMV1zKosszsydoEN8zY1zEtsy7OypV0wenIyujI9H0ZGV04nSx0Jt8+owtJBju+YnaL5fTlXLlnJnNFUy3oR5PoOpKNBmijRqZlSD8LwR4SjRfiMZsayoThh4oTSDk0cbH8NDIzsbx0JNIKIZuYaj+Oph46j+OpBpmUSzWVlbYtGgT5E3jwYgO8mV1ZGvYlvBRlXBWk9PN9eP1MrfM9J1ZGR05HVx0OVtmZDRMUF1gD4Wp9IvhjMWE9FJoPFAVJRFl2iEWTO8BGBM6GooSkNnQukU5Xwb9KtESyworT6fbaBXIX0qz4lEiYrcCuuZoUgNwOmh8WZOuQntkbGmYprkV56Fmehh74mb04nodsjP6MS/LUo71HmOnEy98z03VgZHTidTHUi3yMekQmH1zANFqfTnNeLLI5lUyx4bL6VaIL+EeHumuSZCSwaLIxg8GIoZz0EZYaKFVISNPHUfx1MbOxvHQl0gfLNvLUYmzLx1G89CK4HJjboDoiZomhaXAn7md0QZPTmbu0mb0ZlmNke0GDvmJ3Jr9GYhrmdLOzmaQJhJoipIHfIleweaCIXmgs0A0UTQRBJYNMshbHSw8MKqF5YRMW0VRR9uVk+i80XVHxTkDgRlKRPpwJqA3ItpA5QK5GzQ2aM3XMQ3yNjWBPaCvOyvOzC6cTI68Pqel3zMzpxOjjqOa8keW6cTP1g9D1YGT0ZHVy06c7fIziUy2klCr5I0+MImSDTLpglEvpxKOOPBcJTLzQMlMxoHgzFjOWghNB4sVUhJmrjqO5aGPloO46EmkDUzViwyYhlYzFElSNTLWhLeB5gdZNh8BuemNvmIbZmzvAhtBdnZBpBlaQL1Jo6QK6QWTRJUCxeaIqSvoz5FfAxNBExVUEmgXI6bGUy6oXmi6Ytoomj7JG4adjz+fWM59R8pWDKfY250LqjLz6RnPYmrNozg4VpFJ0Cei+cPALkV1gepANJGxQ2KMzXMz+jI2dYEd8yzOyuKPP9WJkdWP1PTdGZk9WR08dD1z1Hm98xO5NnpyM3aDp5305mufBb0tLK0iEx4ma4GTJKSyyYDRTNdJOOOPBNEpl4oGSmY0CN52N42Z0MZyoTchJmtjY3nZl42O5WRaSNlj80dSBZ0FRO1wb8im0GftBr6yIbwPzon0kytZFtJHtpFLRdDIqQncgKQ3aF7kplktyB9LTRWkQGK7wYmgioWmgioByOmz3MdAxn0mLOoaNjkVidHp6DHq/wCR7HpPM5bjuPSSaYBI9NluNRoefw6TRx3INMeBcNP5FaAxqEVk/jw3gPSRPaB6gGiGQ+DJZk75mZ05G3tJn9EF+Vj1R57qyMnoyPRdOf1MrpzOpjYnWemHpIFof2zFLk6E1059xxlEy8sGSmEz0sMmSUTLJglEvpxxJxgXC0sPnQugkMGkZwfyodyozMqHcaJdJDRo50MwxHKhrNklodIWkK7wNoppIEvjNqeoxeiBDVGz05mZvBflRz9Y4I0BtDFoG0VJkrQtUgmhqpB1I1MVUAUXTIcneBAJcPQKwk6CyoumQtHTG41GM9zOVBJsVUdCNrDoNHDpPOZajuO5LpiMlnpsegbjY89h0D2PQQaYj0jYVlbYpnsF+ZP4cN8Qeojuh26FNh2YSMzogy+jM2dkZ+8HQyo810xOjMz9YNvfMzd8zo5WTaQZtIqH0kE0VJkjXDky6YMsjzClhEySiZZMEemSXkqSgWFwYzY5lQhDGsmJtBJGjlQ3mzPyoczZHaGSOQyzQKGGknY9e4rvmZfTmbmkiHRkPyvhPtn0wdYAtGh0ZidydCK6c2o4wPhWpC+HeDOg+Is4K/EZclfiGmA4GpsIqEpoNNCXJXL6Mqi6oBLLpgNB8DzYxnqJJl1QDkJGrluO49BhToMZ7k95dGzR6PLoGY3PP5dA5n0Ed4jlXTWegHShediXYpRwIpoKayNWxex0HuCG0Gdvma+siO0FmdGVPTH2gVtGnvAjpJdFEOkCxKJaIGiCUWTKkpmDEwiZZA0y6YLHSwkDObFZYfNi6Q1D2THMmZ+THMmSaIJD0MPDFM2MQyakOkP4L7QMSRcgJ8YdT1GN05GdtBu75mb0Zl2VkG2ZmNEBtJBlaZLzhHhX4lyfAj3BeZCyjki8mNhSiUi6RCLoBj0jkWIRIIfid6WVlCGz3AWhrPUay3MpUGz1F1n0xVw28thidDGy2G89iW8yiaND5FKYKdDnYrxGoroK6oZpi+jHQaIbSI7SaeqEtZK82T6T0zrkGxnSQFIqlkVLhUkg40FMsiyZQlMwZNBpYaGLJhooXSKIoczY5lRn50OZUT2ho/mxiGJ5sZhklIZI3DCAM2GliWh8gdYM/ozNakKbwNzrgvSOowtoFqRp9GYjpJ0IrpztI4BJ8J8OGikiGjkEclGgOh8OTLJlCUz3ApoImSVTJBHySQySGeD8QbOVFqRRmibgPGgzlqZyYWLAqegKuGtGoT+IZ2egadBDgomxp2DqgfzKOzykLyO0YroGpgbGyA30V1kWtDmiFtEUSye0Lsj0tSKDkTP2LHelfSfTx5UXTCRQD0vLBaGxY5nQ5jRm50OY0IuSuK6aWTGoYjjQ3myK0NTG4YeWLZsPDEUPlhgWkBZOaBT4O50y+jMzdszc3gzt8y3KyXXIzKkr8RjSAfhUmRvMgq0Wkt4B0znQDRUNUgqkNMBzw5UXVAjkzeGzXA6ZIOWW9A4VxXTmUaCENHgnPQTRCZdoo0ES6RwJFhp0FPS80Y5FquDis50LqifkB4jPIK6KNlfkR6ake6RQC0HYKw0eYtaAtDFoDSHImtAziWVDEk+kplDvT3DyoYihrGhCaGcqFXJVlZrYUO5My8LNDFkWiK5Y7DGIYrmxiGS0PljEsIBhhpFMplg9JEN4NKkK7SMzoNz0ydYF3JoawLOS2aJ7yEoDSiDg2QQS4B3BxxiYypXAFyDaOOGpktLhMsImccaxmbLIt4ccAyySrRSkcceQNpA2iPTjgyG1wtNF/TjjGjJI9J9OOPBHelKOOPIIDYGjjhsibKMqzjgydlWVZJwSF0cmGzo44ykFnT6P89mlhRJxFqjoZs2v8F/w6uiqmaUKJ+TbTp/X6JG3H2Yr+X+r/Zr9zjjM8YqetE2/qtI0cy/YLP2br9X+0/3CL7O1+p+f4T+7+pxxr9Nn9jJ9fsv5/CJf2er9T8vwa/cFp9mqf4n3+f7NfuQceXps/sNX1Hf/AF+F+hbT7K1+r+f4Ffd/2Bf5Pt/z/jz/AFxa/wDRxw6cY+xr+obv+34X6P/Z');
+--popout-modal-blur: 10px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/d6LIIU5.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.29;
+--left-brightness: 0.6;
+--middle-brightness: 0.29;
+--right-brightness: 0.6;
+--popout-modal-brightness: 0;
+--gradient-primary: 32,32,32; 
+--gradient-secondary: 222,60,30;
+--gradient-direction: 185deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 13px;
+--window-roundness: 25px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Whitney';
+--update-notice-1: none;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 1px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 4px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
