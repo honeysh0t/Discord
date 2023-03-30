@@ -1,0 +1,51 @@
+/**
+ * @name Naruto Wraith
+ * @author BadyDog#0947
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
+ * @source https://github.com/DiscordStyles/FrostedGlass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/DmA16Da.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: transparent;
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://i.imgur.com/goLzEt7.jpeg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.8;
+  --right-brightness: 0.8;
+  --popout-modal-brightness: 0.8;
+  --gradient-primary: 255,50,0;
+  --gradient-secondary: 255, 220, 0;
+  --link-colour: rgb(255, 162, 0);
+  --scrollbar-colour: rgb(255, 110, 0);
+  --gradient-direction: 50deg;
+  --tint-colour: rgb(255, 100, 0);
+  --tint-brightness: 0;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 0px;
+  --rs-width: 2.5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: rgb(62, 213, 32);
+  --rs-idle-color: #ffa200;
+  --rs-dnd-color: #ff0000;
+  --rs-offline-color: #70757b;
+  --rs-streaming-color: #643da7;
+}
